@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/javascript/17/user/664797).
-* Наставник: `Неизвестно`.
+* Студент: [Полина Кац](https://up.htmlacademy.ru/javascript/17/user/664797).
+* Наставник: `Александр Борман`.
 
 ---
 
